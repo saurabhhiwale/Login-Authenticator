@@ -91,6 +91,6 @@ public class Authenticator {
 	
 	public static void main(String[] args) {
 		checkCredentials();
-		System.out.println("Thanks You for Be Here");
+		System.out.println("Thanks You for Being Here");
 		}
 	}
